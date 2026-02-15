@@ -1,0 +1,7 @@
+@MovieAppRamos.Api_HostAddress = http://localhost:5252
+
+GET {{MovieAppRamos.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
